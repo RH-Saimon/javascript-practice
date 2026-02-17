@@ -17,7 +17,7 @@ console.log(A);
 console.log(B);
 
 
-// Object:......
+// Object:....
 
 let student =
 {
