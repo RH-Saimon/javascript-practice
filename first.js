@@ -88,4 +88,7 @@ console.log("a =", a);
 console.log(b);
 */
 
-// Comparison operators:(!=, ==)
+// Comparison operators:(!=, ==, ===, !==, <, <=, >, >=)
+
+
+// Logical Operators: (&&, ||, !)
