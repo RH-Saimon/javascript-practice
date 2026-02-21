@@ -1,4 +1,4 @@
-//string:
+//string: in javascript string are immutable. thats mean string are not change.
 /*
 let str = "saimon";
 console.log(str.length); //length print
